@@ -8,36 +8,36 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
     <channel>
-        <title>Greatest Motivational and Inspirational Speeches Ever</title>
-        <link>https://thisyearweconquer.github.io/</link>
-        <language>en-us</language>
+        <title>حلقات اكادميه زاد</title>
+        <link>https://www.zad-academy.com/</link>
+        <language>ar-sa</language>
         <atom:link href="https://mohamedelamry.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <copyright>Duke Winslaw</copyright>
-        <itunes:subtitle>Get Motivated</itunes:subtitle>
-        <itunes:author>Duke Winslaw</itunes:author>
-        <itunes:summary>Incredibly powerful motivational and inspirational speeches.</itunes:summary>
-        <itunes:keywords>sounds</itunes:keywords>
-        <description>Incredibly powerful motivational and inspirational speeches.</description>
+        <copyright>Mohamed Elamry</copyright>
+        <itunes:subtitle>الفصل الاول</itunes:subtitle>
+        <itunes:author>Mohamed Elamry</itunes:author>
+        <itunes:summary>نرحب بكم. فرصه عظيمه للتعليم ونشر العلم</itunes:summary>
+        <itunes:keywords>Islam</itunes:keywords>
+        <description>ترحب إدارة أكاديمية زاد بالطلبة الجدد، سائلين الله تعالى لهم التوفيق والنجاح، ونهيب بهم جميعا بالإخلاص أولا في طلب العلم، والسعي الدائم في تحصيل ما ينفع، وربط ما يدرس ويتعلم بحياته قولا وعملا، فقد هتف العلم بالعمل، فإن أجابه وإلا ارتحل، وفقكم الله جميعا لما يحبه ويرضاه.</description>
         <itunes:owner>
-            <itunes:name>Duke Winslaw</itunes:name>
-            <itunes:email>thisyearweconquer@gmail.com</itunes:email>
+            <itunes:name>ZAD Academy</itunes:name>
+            <itunes:email>support@zad-academy.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://thisyearweconquer.github.io/logo.jpg"/>
+        <itunes:image href="https://lms-ar106.zad-academy.com/pluginfile.php/1/theme_lambda/logo/1598786107/Logo_Trans_tagline_final%281%29.png"/>
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Islam"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <item>
-            <itunes:author>Duke Winslaw</itunes:author>
-            <title>I CAN DO IT - Powerful Motivational Video</title>
-            <itunes:subtitle>I CAN DO IT - Powerful Motivational Video</itunes:subtitle>
+            <itunes:author>الشيخ عاصم الحكيم</itunes:author>
+            <title>السيره - المحاضره 1</title>
+            <itunes:subtitle>أهمية السيرة ومكانتها</itunes:subtitle>
             <itunes:summary> Summary 1</itunes:summary>
             <description> descriptin 1</description>
-            <enclosure url='https://dts.podtrac.com/redirect.mp3/thisyearweconquer.github.io/mp3s/I_CAN_DO_IT_-_Powerful_Motivational_Video.mp3' length='3988317' type='audio/mpeg'/>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
-            <guid isPermaLink='false'>https://thisyearweconquer.github.io/mp3s/I_CAN_DO_IT_-_Powerful_Motivational_Video.mp3</guid>
-            <pubDate>Sat, 5 Sep 2020 16:01:07 +0000</pubDate>
-            <itunes:explicit>yes</itunes:explicit>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
+            <pubDate>Sun, 30 Aug 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
 </rss>
