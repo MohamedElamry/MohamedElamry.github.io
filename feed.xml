@@ -12,9 +12,9 @@
         <link>https://www.zad-academy.com/</link>
         <language>ar-sa</language>
         <atom:link href="https://mohamedelamry.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <copyright>Mohamed Elamry</copyright>
+        <copyright>اكادميه زاد</copyright>
         <itunes:subtitle>الفصل الاول</itunes:subtitle>
-        <itunes:author>Mohamed Elamry</itunes:author>
+        <itunes:author>اكادميه زاد</itunes:author>
         <itunes:summary>نرحب بكم. فرصه عظيمه للتعليم ونشر العلم</itunes:summary>
         <itunes:keywords>Islam</itunes:keywords>
         <description>ترحب إدارة أكاديمية زاد بالطلبة الجدد، سائلين الله تعالى لهم التوفيق والنجاح، ونهيب بهم جميعا بالإخلاص أولا في طلب العلم، والسعي الدائم في تحصيل ما ينفع، وربط ما يدرس ويتعلم بحياته قولا وعملا، فقد هتف العلم بالعمل، فإن أجابه وإلا ارتحل، وفقكم الله جميعا لما يحبه ويرضاه.</description>
@@ -26,7 +26,7 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Islam"/>
         </itunes:category>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <item>
             <itunes:author>الشيخ عاصم الحكيم</itunes:author>
             <title>السيره - المحاضره 1</title>
@@ -37,7 +37,7 @@
             <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
             <pubDate>Sun, 30 Aug 2020 17:00:00 +0000</pubDate>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-3</link>
         </item>
     </channel>
