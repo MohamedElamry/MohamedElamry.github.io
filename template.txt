@@ -12,8 +12,8 @@
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر الحديث من قوله (أهمية السيرة ومكانتها) في الصفحة رقم 11 وحتى قوله (نسبه صلى الله عليه وسلم) في الصفحة رقم 17
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
-            <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
+            <itunes:duration>00:45:00</itunes:duration>
             <pubDate>Sun, 30 Aug 2020 17:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-3</link>
@@ -106,7 +106,7 @@
 العقيدة - المحاضره 1
             </title>
             <itunes:summary>
-            معنى العقيدة الصحيحة
+معنى العقيدة الصحيحة
             </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (معنى العقيدة الصحيحة) في الصفحة رقم 11 وحتى قوله (أنها الأصل في دعوة الرسل) في الصفحة رقم 13

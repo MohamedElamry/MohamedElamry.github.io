@@ -169,5 +169,65 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-4</link>
         </item>
+        <item>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+الغة العربية - المحاضره 2
+            </title>
+            <itunes:summary>
+نشأة علم النحو
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (نشأة علم النحو) في الصفحة رقم 11 وحتى قوله (موضوع علم النحو) في الصفحة رقم 13
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture2_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture2_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:40:00</itunes:duration>
+            <pubDate>Wed, 2 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-4</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 2
+            </title>
+            <itunes:summary>
+نسبه صلى الله عليه وسلم
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (نسبه صلى الله عليه وسلم) في الصفحة رقم 17 وحتى قوله (العودة إلى أمه صلى الله عليه وسلم) في الصفحة رقم 20
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture2_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <itunes:duration>00:46:51</itunes:duration>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture2_Seerah_Semester1.mp3</guid>
+            <pubDate>Wed, 2 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-4</link>
+        </item>
+        <item>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 2
+            </title>
+            <itunes:summary>
+أنها الأصل في دعوة الرسل
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (أنها الأصل في دعوة الرسل) في الصفحة رقم 13 وحتى قوله (مصادر تلقي العقيدة الصحيحة) في الصفحة رقم 16
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture2_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture2_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:47:42</itunes:duration>
+            <pubDate>Mon, 31 Aug 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-4</link>
+        </item>
     </channel>
 </rss>
