@@ -30,15 +30,40 @@
         <item>
             <itunes:author>الشيخ عاصم الحكيم</itunes:author>
             <title>السيره - المحاضره 1</title>
-            <itunes:subtitle>أهمية السيرة ومكانتها</itunes:subtitle>
-            <itunes:summary> Summary 1</itunes:summary>
-            <description> descriptin 1</description>
+            <itunes:summary>أهمية السيرة ومكانتها</itunes:summary>
+            <description>تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر الحديث من قوله (أهمية السيرة ومكانتها) في الصفحة رقم 11 وحتى قوله (نسبه صلى الله عليه وسلم) في الصفحة رقم 17</description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
             <pubDate>Sun, 30 Aug 2020 17:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-3</link>
+        </item>
+        <item>
+            <itunes:author>د. موفق بن عبد الله بن علي كدسة الغامدي</itunes:author>
+            <title>الحديث - المحاضره 1</title>
+            <itunes:summary>الحديث الأول</itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الأول) في الصفحة رقم 9 وحتى قوله (الحديث الثاني) في الصفحة رقم 13            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:49:30</itunes:duration>
+            <pubDate>Sun, 30 Aug 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-3</link>
+        </item>
+        <item>
+            <itunes:author>د.منصور بن عبد الرحمن الغامدي</itunes:author>
+            <title>الفقه - المحاضره 1</title>
+            <itunes:summary>معنى الطهارة</itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الطهارة ومعناها) في الصفحة رقم 13 وحتى قوله (المياه) في الصفحة رقم 15            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:46:11</itunes:duration>
+            <pubDate>Sun, 30 Aug 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-3</link>
         </item>
     </channel>
 </rss>
