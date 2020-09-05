@@ -23,7 +23,7 @@
             <itunes:email>thisyearweconquer@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://thisyearweconquer.github.io/logo.jpg"/>
-        <itunes:category text="Religion & Spirituality">
+        <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Islam"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
