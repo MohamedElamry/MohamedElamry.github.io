@@ -125,7 +125,7 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture1_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture1_Tarbiyah_Semester1.mp3</guid>
             <itunes:duration>00:44:10</itunes:duration>
-            <pubDate>Thu, 1 Sep 2020 17:00:00 +0000</pubDate>
+            <pubDate>Tue, 1 Sep 2020 17:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-3</link>
         </item>
@@ -145,7 +145,7 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture2_Hadith_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture2_Hadith_Semester1.mp3</guid>
             <itunes:duration>00:45:27</itunes:duration>
-            <pubDate>Thu, 1 Sep 2020 19:00:00 +0000</pubDate>
+            <pubDate>Tue, 1 Sep 2020 19:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-4</link>
         </item>
@@ -165,7 +165,7 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture2_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture2_Fiqh_Semester1.mp3</guid>
             <itunes:duration>00:42:23</itunes:duration>
-            <pubDate>Thu, 1 Sep 2020 20:45:00 +0000</pubDate>
+            <pubDate>Tue, 1 Sep 2020 20:45:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-4</link>
         </item>
@@ -225,9 +225,69 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture2_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture2_Aqeedah_Semester1.mp3</guid>
             <itunes:duration>00:47:42</itunes:duration>
-            <pubDate>Mon, 31 Aug 2020 20:45:00 +0000</pubDate>
+            <pubDate>Wed, 2 Sep 2020 20:45:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-4</link>
+        </item>
+        <item>
+            <itunes:author>
+د. عبد العزيز بن حميد بن محمد الجهني
+            </itunes:author>
+            <title>
+التربية الإسلامية - المحاضره 2
+            </title>
+            <itunes:summary>
+ومن حقوق الله على العباد: الحياء
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (ومن حقوق الله تعالى: الحياء من الله) في الصفحة رقم 11 وحتى قوله (حق النبي صلى الله عليه وسلم على أمته) في الصفحة رقم 14
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture2_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture2_Tarbiyah_Semester1.mp3</guid>
+            <itunes:duration>00:45:56</itunes:duration>
+            <pubDate>Thu, 3 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-4</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ محمد صالح المنجد
+            </itunes:author>
+            <title>
+التفسير - المحاضره 2
+            </title>
+            <itunes:summary>
+نشأة علم التفسير
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (نشأة علم التفسير) في الصفحة رقم 13 وحتى قوله (ثالثًا تفسير الصحابة رضي الله عنهم) في الصفحة رقم 16
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture2_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture2_Tafsir_Semester1.mp3</guid>
+            <itunes:duration>00:44:56</itunes:duration>
+            <pubDate>Thu, 3 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-4</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 3
+            </title>
+            <itunes:summary>
+ثانيا الماء النجس
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (ثانيا الماء النجس) في الصفحة رقم 17 وحتى قوله (الآنية) في الصفحة رقم 19
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture3_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture3_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:45:10</itunes:duration>
+            <pubDate>Thu, 3 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-5</link>
         </item>
     </channel>
 </rss>
