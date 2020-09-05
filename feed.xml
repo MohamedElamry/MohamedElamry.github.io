@@ -44,7 +44,8 @@
             <title>الحديث - المحاضره 1</title>
             <itunes:summary>الحديث الأول</itunes:summary>
             <description>
-تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الأول) في الصفحة رقم 9 وحتى قوله (الحديث الثاني) في الصفحة رقم 13            </description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الأول) في الصفحة رقم 9 وحتى قوله (الحديث الثاني) في الصفحة رقم 13
+            </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3</guid>
             <itunes:duration>00:49:30</itunes:duration>
@@ -57,13 +58,56 @@
             <title>الفقه - المحاضره 1</title>
             <itunes:summary>معنى الطهارة</itunes:summary>
             <description>
-تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الطهارة ومعناها) في الصفحة رقم 13 وحتى قوله (المياه) في الصفحة رقم 15            </description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الطهارة ومعناها) في الصفحة رقم 13 وحتى قوله (المياه) في الصفحة رقم 15
+            </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3</guid>
             <itunes:duration>00:46:11</itunes:duration>
             <pubDate>Sun, 30 Aug 2020 20:45:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-3</link>
+        </item>
+        <item>
+            <itunes:author>الشيخ ناصر بن حمدان عودة الجهني</itunes:author>
+            <title>الغة العربية - المحاضره 1</title>
+            <itunes:summary>تعريف علم النحو</itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (تعريف علم النحو) في الصفحة رقم 9 وحتى قوله (نشأة علم النحو) في الصفحة رقم 11
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture1_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture1_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:44:46</itunes:duration>
+            <pubDate>Mon, 31 Aug 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-3</link>
+        </item>
+        <item>
+            <itunes:author>الشيخ محمد صالح المنجد</itunes:author>
+            <title>التفسير - المحاضره 1</title>
+            <itunes:summary>التعريف بعلم التفسير</itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (التعريف بعلم التفسير) في الصفحة رقم 11 وحتى قوله (نشأة علم التفسير) في الصفحة رقم 13
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture1_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture1_Tafsir_Semester1.mp3</guid>
+            <itunes:duration>00:35:02</itunes:duration>
+            <pubDate>Mon, 31 Aug 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-3</link>
+        </item>
+        <item>
+            <itunes:author>د. أبو زيد بن محمد بن محمد مكي القبي</itunes:author>
+            <title>العقيدة - المحاضره 1</title>
+            <itunes:summary>معنى العقيدة الصحيحة</itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (معنى العقيدة الصحيحة) في الصفحة رقم 11 وحتى قوله (أنها الأصل في دعوة الرسل) في الصفحة رقم 13
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture1_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture1_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:47:28</itunes:duration>
+            <pubDate>Mon, 31 Aug 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-3</link>
         </item>
     </channel>
 </rss>
