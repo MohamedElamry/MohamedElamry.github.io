@@ -1,37 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
-    <channel>
-        <title>حلقات اكادميه زاد</title>
-        <link>https://www.zad-academy.com/</link>
-        <language>ar-sa</language>
-        <atom:link href="https://mohamedelamry.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <copyright>اكادميه زاد</copyright>
-        <itunes:subtitle>الفصل الاول</itunes:subtitle>
-        <itunes:author>اكادميه زاد</itunes:author>
-        <itunes:summary>نرحب بكم. فرصه عظيمه للتعليم ونشر العلم</itunes:summary>
-        <itunes:keywords>Islam</itunes:keywords>
-        <description>ترحب إدارة أكاديمية زاد بالطلبة الجدد، سائلين الله تعالى لهم التوفيق والنجاح، ونهيب بهم جميعا بالإخلاص أولا في طلب العلم، والسعي الدائم في تحصيل ما ينفع، وربط ما يدرس ويتعلم بحياته قولا وعملا، فقد هتف العلم بالعمل، فإن أجابه وإلا ارتحل، وفقكم الله جميعا لما يحبه ويرضاه.</description>
-        <itunes:owner>
-            <itunes:name>ZAD Academy</itunes:name>
-            <itunes:email>support@zad-academy.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://mohamedelamry.github.io/Logo_Trans_tagline_final%283%29.jpg"/>
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Islam"/>
-        </itunes:category>
-        <itunes:explicit>false</itunes:explicit>
         <item>
-            <itunes:author>الشيخ عاصم الحكيم</itunes:author>
-            <title>السيره - المحاضره 1</title>
-            <itunes:summary>أهمية السيرة ومكانتها</itunes:summary>
-            <description>تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر الحديث من قوله (أهمية السيرة ومكانتها) في الصفحة رقم 11 وحتى قوله (نسبه صلى الله عليه وسلم) في الصفحة رقم 17</description>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 1
+            </title>
+            <itunes:summary>
+أهمية السيرة ومكانتها
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر الحديث من قوله (أهمية السيرة ومكانتها) في الصفحة رقم 11 وحتى قوله (نسبه صلى الله عليه وسلم) في الصفحة رقم 17
+            </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
@@ -40,9 +19,15 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-3</link>
         </item>
         <item>
-            <itunes:author>د. موفق بن عبد الله بن علي كدسة الغامدي</itunes:author>
-            <title>الحديث - المحاضره 1</title>
-            <itunes:summary>الحديث الأول</itunes:summary>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 1
+            </title>
+            <itunes:summary>
+الحديث الأول
+            </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الأول) في الصفحة رقم 9 وحتى قوله (الحديث الثاني) في الصفحة رقم 13
             </description>
@@ -54,9 +39,15 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-3</link>
         </item>
         <item>
-            <itunes:author>د.منصور بن عبد الرحمن الغامدي</itunes:author>
-            <title>الفقه - المحاضره 1</title>
-            <itunes:summary>معنى الطهارة</itunes:summary>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 1
+            </title>
+            <itunes:summary>
+معنى الطهارة
+            </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الطهارة ومعناها) في الصفحة رقم 13 وحتى قوله (المياه) في الصفحة رقم 15
             </description>
@@ -68,9 +59,15 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-3</link>
         </item>
         <item>
-            <itunes:author>الشيخ ناصر بن حمدان عودة الجهني</itunes:author>
-            <title>الغة العربية - المحاضره 1</title>
-            <itunes:summary>تعريف علم النحو</itunes:summary>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+الغة العربية - المحاضره 1
+            </title>
+            <itunes:summary>
+تعريف علم النحو
+            </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (تعريف علم النحو) في الصفحة رقم 9 وحتى قوله (نشأة علم النحو) في الصفحة رقم 11
             </description>
@@ -82,9 +79,15 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-3</link>
         </item>
         <item>
-            <itunes:author>الشيخ محمد صالح المنجد</itunes:author>
-            <title>التفسير - المحاضره 1</title>
-            <itunes:summary>التعريف بعلم التفسير</itunes:summary>
+            <itunes:author>
+الشيخ محمد صالح المنجد
+            </itunes:author>
+            <title>
+التفسير - المحاضره 1
+            </title>
+            <itunes:summary>
+التعريف بعلم التفسير
+            </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (التعريف بعلم التفسير) في الصفحة رقم 11 وحتى قوله (نشأة علم التفسير) في الصفحة رقم 13
             </description>
@@ -96,9 +99,15 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-3</link>
         </item>
         <item>
-            <itunes:author>د. أبو زيد بن محمد بن محمد مكي القبي</itunes:author>
-            <title>العقيدة - المحاضره 1</title>
-            <itunes:summary>معنى العقيدة الصحيحة</itunes:summary>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 1
+            </title>
+            <itunes:summary>
+            معنى العقيدة الصحيحة
+            </itunes:summary>
             <description>
 تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (معنى العقيدة الصحيحة) في الصفحة رقم 11 وحتى قوله (أنها الأصل في دعوة الرسل) في الصفحة رقم 13
             </description>
@@ -129,45 +138,3 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-3</link>
         </item>
-        <item>
-            <itunes:author>
-د. موفق بن عبد الله بن علي كدسة الغامدي
-            </itunes:author>
-            <title>
-الحديث - المحاضره 2
-            </title>
-            <itunes:summary>
-الحديث الثاني
-            </itunes:summary>
-            <description>
-تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الثاني) في الصفحة رقم 13 وحتى قوله (الحديث الثالث) في الصفحة رقم 20
-            </description>
-            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture2_Hadith_Semester1.mp3' length='40805972' type='audio/mpeg'/>
-            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture2_Hadith_Semester1.mp3</guid>
-            <itunes:duration>00:45:27</itunes:duration>
-            <pubDate>Thu, 1 Sep 2020 19:00:00 +0000</pubDate>
-            <itunes:explicit>false</itunes:explicit>
-            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-4</link>
-        </item>
-        <item>
-            <itunes:author>
-د.منصور بن عبد الرحمن الغامدي
-            </itunes:author>
-            <title>
-الفقه - المحاضره 2
-            </title>
-            <itunes:summary>
-المياه
-            </itunes:summary>
-            <description>
-تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (المياه) في الصفحة رقم 15 وحتى قوله (ثانيا الماء النجس) في الصفحة رقم 17
-            </description>
-            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture2_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
-            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture2_Fiqh_Semester1.mp3</guid>
-            <itunes:duration>00:42:23</itunes:duration>
-            <pubDate>Thu, 1 Sep 2020 20:45:00 +0000</pubDate>
-            <itunes:explicit>false</itunes:explicit>
-            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-4</link>
-        </item>
-    </channel>
-</rss>
