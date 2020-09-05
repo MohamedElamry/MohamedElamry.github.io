@@ -11,7 +11,7 @@
         <title>Greatest Motivational and Inspirational Speeches Ever</title>
         <link>https://thisyearweconquer.github.io/</link>
         <language>en-us</language>
-        <atom:link href="https://thisyearweconquer.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://mohamedelamry.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright>Duke Winslaw</copyright>
         <itunes:subtitle>Get Motivated</itunes:subtitle>
         <itunes:author>Duke Winslaw</itunes:author>
@@ -23,8 +23,8 @@
             <itunes:email>thisyearweconquer@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://thisyearweconquer.github.io/logo.jpg"/>
-        <itunes:category text="Health">
-            <itunes:category text="Self-Help"/>
+        <itunes:category text="Religion & Spirituality">
+            <itunes:category text="Islam"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <item>
@@ -34,9 +34,9 @@
             <itunes:summary> Summary 1</itunes:summary>
             <description> descriptin 1</description>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/thisyearweconquer.github.io/mp3s/I_CAN_DO_IT_-_Powerful_Motivational_Video.mp3' length='3988317' type='audio/mpeg'/>
-            <itunes:duration>272.136</itunes:duration>
+            <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://thisyearweconquer.github.io/mp3s/I_CAN_DO_IT_-_Powerful_Motivational_Video.mp3</guid>
-            <pubDate>Wed Mar 11 21:55:02 2020</pubDate>
+            <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
             <itunes:explicit>yes</itunes:explicit>
         </item>
     </channel>
