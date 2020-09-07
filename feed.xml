@@ -289,5 +289,65 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-5</link>
         </item>
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 3
+            </title>
+            <itunes:summary>
+العودة إلى أمه صلى الله عليه وسلم
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (العودة إلى أمه صلى الله عليه وسلم) في الصفحة رقم 20 وحتى قوله (زواجه صلى الله عليه وسلم بخديجة رضي الله عنها) في الصفحة رقم 27
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture3_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <itunes:duration>00:46:53</itunes:duration>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture3_Seerah_Semester1.mp3</guid>
+            <pubDate>Sun, 6 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-6</link>
+        </item>
+        <item>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 3
+            </title>
+            <itunes:summary>
+الحديث الثالث
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الثالث) في الصفحة رقم 20 وحتى قوله (الحديث الرابع) في الصفحة رقم 24
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture3_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture3_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:45:08</itunes:duration>
+            <pubDate>Sun, 6 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-6</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 4
+            </title>
+            <itunes:summary>
+باب الآنية
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الآنية) في الصفحة رقم 19 وحتى قوله (قضاء الحاجة وآدابها) في الصفحة رقم 25
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture4_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture4_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:47:00</itunes:duration>
+            <pubDate>Sun, 6 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-7</link>
+        </item>
     </channel>
 </rss>
