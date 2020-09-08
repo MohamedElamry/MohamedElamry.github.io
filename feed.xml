@@ -409,5 +409,66 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-6</link>
         </item>
+
+        <item>
+            <itunes:author>
+د. عبد العزيز بن حميد بن محمد الجهني
+            </itunes:author>
+            <title>
+التربية الإسلامية - المحاضره 3
+            </title>
+            <itunes:summary>
+حق النبي صلى الله عليه وسلم على أمته
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (حق النبي صلى الله عليه وسلم على أمته) في الصفحة رقم 14 وحتى قوله (ومن صور الغلو في وصف النبي صلى الله عليه وسلم) في الصفحة رقم 18
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture3_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture3_Tarbiyah_Semester1.mp3</guid>
+            <itunes:duration>00:47:30</itunes:duration>
+            <pubDate>Tue, 8 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-6</link>
+        </item>
+        <item>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 4
+            </title>
+            <itunes:summary>
+الحديث الرابع
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الرابع) في الصفحة رقم 24 وحتى قوله (إتمام الحديث الرابع: (من قوله: لا إله إلا الله) هي كلمة التوحيد) في الصفحة رقم 26
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture4_Hadith_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture4_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:47:33</itunes:duration>
+            <pubDate>Tue, 8 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-7</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 5
+            </title>
+            <itunes:summary>
+قضاء الحاجة وآدابها
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (قضاء الحاجة وآدابها) في الصفحة رقم 25 وحتى قوله (سنن الفطرة) في الصفحة رقم 30
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture5_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture5_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:47:57</itunes:duration>
+            <pubDate>Tue, 8 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-8</link>
+        </item>
     </channel>
 </rss>
