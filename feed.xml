@@ -470,5 +470,66 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-8</link>
         </item>
+
+        <item>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+الغة العربية - المحاضره 4
+            </title>
+            <itunes:summary>
+الكلام المفيد ومعلقات خاصة به
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الكلام المفيد ومتعلقات خاصة به) في الصفحة رقم 19 وحتى قوله (أقسام الكلمة) في الصفحة رقم 23
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture4_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture4_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:42:01</itunes:duration>
+            <pubDate>Wed, 9 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-7</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 4
+            </title>
+            <itunes:summary>
+زواجه بخديجة صلى الله عليه وسلم
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (زواجه صلى الله عليه وسلم بخديجة رضي الله عنها) في الصفحة رقم 27 وحتى قوله (العهد المكي) في الصفحة رقم 34
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture4_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <itunes:duration>00:46:08</itunes:duration>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture4_Seerah_Semester1.mp3</guid>
+            <pubDate>Wed, 9 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-7</link>
+        </item>
+        <item>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 4
+            </title>
+            <itunes:summary>
+المصدر الثاني السنة النبوية الصحيحة
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (المصدر الثاني السنة النبوية الصحيحة) في الصفحة رقم 20 وحتى قوله (أصول أهل السنة في إثبات مسائل العقيدة) في الصفحة رقم 25
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture4_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture4_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:43:50</itunes:duration>
+            <pubDate>Wed, 9 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-7</link>
+        </item>
     </channel>
 </rss>
