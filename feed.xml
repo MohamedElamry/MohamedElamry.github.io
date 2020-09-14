@@ -592,5 +592,67 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-9</link>
         </item>
+
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 5 - العهد المكي
+            </title>
+            <itunes:summary>
+العهد المكي
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (العهد المكي) في الصفحة رقم 34 وحتى قوله (أقسام الوحي) في الصفحة رقم 38
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture5_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <itunes:duration>00:46:53</itunes:duration>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture5_Seerah_Semester1.mp3</guid>
+            <pubDate>Sun, 13 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-9</link>
+        </item>
+        <item>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 5 - إتمام الحديث الرابع
+            </title>
+            <itunes:summary>
+إتمام الحديث الرابع: (من قوله: لا إله إلا الله) هي كلمة التوحيد
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (إتمام الحديث الرابع: (من قوله: لا إله إلا الله) هي كلمة التوحيد) في الصفحة رقم 26 وحتى قوله (الحديث الخامس) في الصفحة رقم 28
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture5_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture5_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:45:08</itunes:duration>
+            <pubDate>Sun, 13 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-9</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 7 - الوضوء
+            </title>
+            <itunes:summary>
+الوضوء
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (الوضوء) في الصفحة رقم 32 وحتى قوله (فرائض الوضوء ستة) في الصفحة رقم 34
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture7_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture7_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:47:00</itunes:duration>
+            <pubDate>Sun, 13 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-11</link>
+        </item>
+
     </channel>
 </rss>
