@@ -654,5 +654,66 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-11</link>
         </item>
 
+        <item>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+لغة العربية - المحاضره 5 - أقسام الكلام
+            </title>
+            <itunes:summary>
+أقسام الكلام
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (أقسام الكلمة) في الصفحة رقم 23 وحتى قوله (وينقسم الاسم باعتبار آخره إلى أربعة أقسام) في الصفحة رقم 26
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture5_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture5_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:44:12</itunes:duration>
+            <pubDate>Mon, 14 Sep 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-9</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ محمد صالح المنجد
+            </itunes:author>
+            <title>
+التفسير - المحاضره 5 - معالم التنزيل
+            </title>
+            <itunes:summary>
+معالم التنزيل
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (معالم التنزيل) في الصفحة رقم 22 وحتى قوله (الدر المنثور في التفسير بالمأثور) في الصفحة رقم 24
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture5_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture5_Tafsir_Semester1.mp3</guid>
+            <itunes:duration>00:47:13</itunes:duration>
+            <pubDate>Mon, 14 Sep 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-9</link>
+        </item>
+        <item>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 5 - أصول أهل السنة في إثبات مسائل العقيدة
+            </title>
+            <itunes:summary>
+أصول أهل السنة في إثبات مسائل العقيدة
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (أصول أهل السنة في إثبات مسائل العقيدة) في الصفحة رقم 25 وحتى قوله (فهم نصوص الكتاب والسنة الصحيحة) في الصفحة رقم 28
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture5_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture5_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:42:52</itunes:duration>
+            <pubDate>Mon, 14 Sep 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-9</link>
+        </item>
+
     </channel>
 </rss>
