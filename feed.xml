@@ -2731,5 +2731,314 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-37</link>
         </item>
+
+
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 19 - غزوة خيبر
+            </title>
+            <itunes:summary>
+غزوة خيبر
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (غزوة خيبر) في الصفحة رقم 76 وحتى قوله (فتح مكة) في الصفحة رقم 81
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture19_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <itunes:duration>00:46:53</itunes:duration>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture19_Seerah_Semester1.mp3</guid>
+            <pubDate>Sun, 1 Nov 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-30</link>
+        </item>
+        <item>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 19 - الحديث السادس عشر
+            </title>
+            <itunes:summary>
+الحديث السادس عشر
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث السادس عشر) في الصفحة رقم 76 وحتى قوله (الحديث السابع عشر) في الصفحة رقم 78
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture19_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture19_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:45:08</itunes:duration>
+            <pubDate>Sun, 1 Nov 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-30</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 28 - أركان الصلاة
+            </title>
+            <itunes:summary>
+أركان الصلاة
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (أركان الصلاة) في الصفحة رقم 103 وحتى قوله (الركوع) في الصفحة رقم 104
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture28_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture28_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:47:00</itunes:duration>
+            <pubDate>Sun, 1 Nov 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-39</link>
+        </item>
+
+        <!--
+        <item>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+اللغة العربية - المحاضره 17 - المثنى وملحقاته
+            </title>
+            <itunes:summary>
+المثنى وملحقاته
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (المثنى وملحقاته) في الصفحة رقم 77 وحتى قوله (جمع المذكر السالم وملحقات) في الصفحة رقم 80
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture17_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture17_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:44:12</itunes:duration>
+            <pubDate>Mon, 26 Nov 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-27</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ محمد صالح المنجد
+            </itunes:author>
+            <title>
+التفسير - المحاضره 17 - آية الكرسي
+            </title>
+            <itunes:summary>
+آية الكرسي
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (آية الكرسي ) في الصفحة رقم 51 وحتى قوله تعالى: ({من ذا الذي يشفع عنده} الشفاعة لغة:) في الصفحة رقم 56
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture17_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture17_Tafsir_Semester1.mp3</guid>
+            <itunes:duration>00:47:13</itunes:duration>
+            <pubDate>Mon, 26 Nov 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-27</link>
+        </item>
+        <item>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 17 - أركان التوحيد
+            </title>
+            <itunes:summary>
+أركان التوحيد
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (أركان التوحيد) في الصفحة رقم 63 وحتى قوله (أقسام التوحيد) في الصفحة رقم 68
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture17_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture17_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:42:52</itunes:duration>
+            <pubDate>Mon, 26 Nov 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-27</link>
+        </item>
+
+        <item>
+            <itunes:author>
+د. عبد العزيز بن حميد بن محمد الجهني
+            </itunes:author>
+            <title>
+التربية الإسلامية - المحاضره 17 - حقوق ذوي الرحم
+            </title>
+            <itunes:summary>
+حقوق ذوي الرحم
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (حقوق ذوي الرحم) في الصفحة رقم 56 وحتى قوله (حقوق الجار) في الصفحة رقم 61
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture17_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture17_Tarbiyah_Semester1.mp3</guid>
+            <itunes:duration>00:47:30</itunes:duration>
+            <pubDate>Tue, 27 Nov 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-27</link>
+        </item>
+        <item>
+            <itunes:author>
+د. موفق بن عبد الله بن علي كدسة الغامدي
+            </itunes:author>
+            <title>
+الحديث - المحاضره 18 - الحديث الخامس عشر
+            </title>
+            <itunes:summary>
+الحديث الخامس عشر
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الخامس عشر) في الصفحة رقم 72 وحتى قوله (الحديث السادس عشر) في الصفحة رقم 75
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture18_Hadith_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture18_Hadith_Semester1.mp3</guid>
+            <itunes:duration>00:47:33</itunes:duration>
+            <pubDate>Tue, 27 Nov 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-28</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 26 - وقت المغرب
+            </title>
+            <itunes:summary>
+وقت المغرب
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (وقت المغرب) في الصفحة رقم 96 وحتى قوله (شروط الصلاة) في الصفحة رقم 98
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture26_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture26_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:47:57</itunes:duration>
+            <pubDate>Tue, 27 Nov 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-36</link>
+        </item>
+
+        <item>
+            <itunes:author>
+الشيخ ناصر بن حمدان عودة الجهني
+            </itunes:author>
+            <title>
+الغة العربية - المحاضره 18 - جمع المذكر السالم وملحقاته
+            </title>
+            <itunes:summary>
+جمع المذكر السالم وملحقاته
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (جمع المذكر السالم وملحقات) في الصفحة رقم 80 وحتى قوله (جمع المؤنث السالم وملحقاته) في الصفحة رقم 83
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture18_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture18_Arabic_Semester1.mp3</guid>
+            <itunes:duration>00:42:01</itunes:duration>
+            <pubDate>Wed, 28 Nov 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=32#section-28</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ عاصم الحكيم
+            </itunes:author>
+            <title>
+السيره - المحاضره 18 - صلح الحديبية
+            </title>
+            <itunes:summary>
+صلح الحديبية
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (صلح الحديبية) في الصفحة رقم 74 وحتى قوله (غزوة خيبر) في الصفحة رقم 76
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture18_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture18_Seerah_Semester1.mp3</guid>
+            <itunes:duration>00:46:08</itunes:duration>
+            <pubDate>Wed, 28 Nov 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-28</link>
+        </item>
+        <item>
+            <itunes:author>
+د. أبو زيد بن محمد بن محمد مكي القبي
+            </itunes:author>
+            <title>
+العقيدة - المحاضره 18 - أقسام التوحيد
+            </title>
+            <itunes:summary>
+أقسام التوحيد
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (أقسام التوحيد) في الصفحة رقم 68 وحتى قوله (ثالثًا: التدبير) في الصفحة رقم 70
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture18_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture18_Aqeedah_Semester1.mp3</guid>
+            <itunes:duration>00:43:50</itunes:duration>
+            <pubDate>Wed, 28 Nov 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-28</link>
+        </item>
+
+        <item>
+            <itunes:author>
+د. عبد العزيز بن حميد بن محمد الجهني
+            </itunes:author>
+            <title>
+التربية الإسلامية - المحاضره 18 - حقوق الجار
+            </title>
+            <itunes:summary>
+حقوق الجار
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (حقوق الجار) في الصفحة رقم 61 وحتى قوله (حقوق الضَّيف والمُضِيف) في الصفحة رقم 66
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture18_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture18_Tarbiyah_Semester1.mp3</guid>
+            <itunes:duration>00:46:47</itunes:duration>
+            <pubDate>Thu, 29 Nov 2020 17:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=31#section-28</link>
+        </item>
+        <item>
+            <itunes:author>
+الشيخ محمد صالح المنجد
+            </itunes:author>
+            <title>
+التفسير - المحاضره 18 - قوله تعالى: ( من ذا الذي يشفع عنده )
+            </title>
+            <itunes:summary>
+قوله تعالى: ( من ذا الذي يشفع عنده )
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله تعالى: ({من ذا الذي يشفع عنده} الشفاعة لغة:) في الصفحة رقم 56 وحتى قوله (فوائد الآيات) في الصفحة رقم 59
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture18_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture18_Tafsir_Semester1.mp3</guid>
+            <itunes:duration>00:48:05</itunes:duration>
+            <pubDate>Thu, 29 Nov 2020 19:00:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=27#section-28</link>
+        </item>
+        <item>
+            <itunes:author>
+د.منصور بن عبد الرحمن الغامدي
+            </itunes:author>
+            <title>
+الفقه - المحاضره 27 - شروط الصلاة
+            </title>
+            <itunes:summary>
+شروط الصلاة
+            </itunes:summary>
+            <description>
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (شروط الصلاة) في الصفحة رقم 98 وحتى قوله (أركان الصلاة) في الصفحة رقم 103
+            </description>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture27_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture27_Fiqh_Semester1.mp3</guid>
+            <itunes:duration>00:45:57</itunes:duration>
+            <pubDate>Thu, 29 Nov 2020 20:45:00 +0000</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+            <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-37</link>
+        </item>
+
+-->
     </channel>
 </rss>
