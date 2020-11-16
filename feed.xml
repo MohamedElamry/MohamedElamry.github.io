@@ -3406,19 +3406,18 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-47</link>
         </item>
 
-        <!--
         <item>
             <itunes:author>
 الشيخ ناصر بن حمدان عودة الجهني
             </itunes:author>
             <title>
-اللغة العربية - المحاضره 23 - 
+اللغة العربية - المحاضره 23 - التأنيث
             </title>
             <itunes:summary>
-
+التأنيث
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (التأنيث) في الصفحة رقم 96 وحتى قوله (التاء المربوطة) في الصفحة رقم 97
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture23_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture23_Arabic_Semester1.mp3</guid>
@@ -3432,13 +3431,13 @@
 الشيخ محمد صالح المنجد
             </itunes:author>
             <title>
-التفسير - المحاضره 23 - 
+التفسير - المحاضره 23 - قوله تعالى ( لا يكلف الله نفسا )
             </title>
             <itunes:summary>
-
+قوله تعالى ( لا يكلف الله نفسا )
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله تعالى: (لا يكلف الله نفسا إلا وسعها) في الصفحة رقم 73 وحتى قوله (فوائد الآية) في الصفحة رقم 76
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture23_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture23_Tafsir_Semester1.mp3</guid>
@@ -3449,16 +3448,16 @@
         </item>
         <item>
             <itunes:author>
-د. أبو زيد بن محمد بن محمد مكي القبي
+د. عبدالله عمر سليمان الدميجي
             </itunes:author>
             <title>
-العقيدة - المحاضره 23 - 
+العقيدة - المحاضره 23 - ثانيا دليل العقل
             </title>
             <itunes:summary>
-
+ثانيا دليل العقل
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (ثانيا دليل العقل) في الصفحة رقم 78 وحتى قوله (ثالثا: دليل الحس) في الصفحة رقم 81
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture23_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture23_Aqeedah_Semester1.mp3</guid>
@@ -3468,6 +3467,7 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-36</link>
         </item>
 
+        <!--
         <item>
             <itunes:author>
 د. عبد العزيز بن حميد بن محمد الجهني
