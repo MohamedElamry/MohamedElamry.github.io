@@ -3467,19 +3467,18 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-36</link>
         </item>
 
-        <!--
         <item>
             <itunes:author>
 د. عبد العزيز بن حميد بن محمد الجهني
             </itunes:author>
             <title>
-التربية الإسلامية - المحاضره 23 - 
+التربية الإسلامية - المحاضره 23 - يجب على الرعية أداء حقوق الحاكم
             </title>
             <itunes:summary>
-
+يجب على الرعية أداء حقوق الحاكم
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (3: يجب على الرعية أداء حقوق الحاكم) في الصفحة رقم 80 وحتى قوله (حقوق الرعية على الراعي) في الصفحة رقم 84
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture23_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture23_Tarbiyah_Semester1.mp3</guid>
@@ -3493,13 +3492,13 @@
 د. موفق بن عبد الله بن علي كدسة الغامدي
             </itunes:author>
             <title>
-الحديث - المحاضره 24 - 
+الحديث - المحاضره 24 - الحديث الحادي والعشرون
             </title>
             <itunes:summary>
-
+الحديث الحادي والعشرون
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر الحديث من قوله (الحديث الحادي والعشرون) في الصفحة رقم 100 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture24_Hadith_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture24_Hadith_Semester1.mp3</guid>
@@ -3513,13 +3512,13 @@
 د.منصور بن عبد الرحمن الغامدي
             </itunes:author>
             <title>
-الفقه - المحاضره 35 - 
+الفقه - المحاضره 35 - تابع مكروهات الصلاة (تشبيك الأصابع)
             </title>
             <itunes:summary>
-
+تابع مكروهات الصلاة (تشبيك الأصابع)
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (تشبيك الأصابع) في الصفحة رقم 122 وحتى قوله (مبطلات الصلاة) في الصفحة رقم 124
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture35_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture35_Fiqh_Semester1.mp3</guid>
@@ -3529,6 +3528,7 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-48</link>
         </item>
 
+        <!--
         <item>
             <itunes:author>
 الشيخ ناصر بن حمدان عودة الجهني
