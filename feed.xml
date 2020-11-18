@@ -3528,19 +3528,18 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-48</link>
         </item>
 
-        <!--
         <item>
             <itunes:author>
 الشيخ ناصر بن حمدان عودة الجهني
             </itunes:author>
             <title>
-الغة العربية - المحاضره 24 - 
+الغة العربية - المحاضره 24 - التاء المربوطة
             </title>
             <itunes:summary>
-
+التاء المربوطة
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (التاء المربوطة) في الصفحة رقم 97 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture24_Arabic_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Arabic/Audios/Lecture24_Arabic_Semester1.mp3</guid>
@@ -3554,13 +3553,13 @@
 الشيخ عاصم الحكيم
             </itunes:author>
             <title>
-السيره - المحاضره 24 - 
+السيره - المحاضره 24 - وفاة النبي صلى الله عليه وسلم
             </title>
             <itunes:summary>
-
+وفاة النبي صلى الله عليه وسلم
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (وفاة النبي صلى الله عليه وسلم) في الصفحة رقم 93 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture24_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture24_Seerah_Semester1.mp3</guid>
@@ -3574,22 +3573,23 @@
 د. أبو زيد بن محمد بن محمد مكي القبي
             </itunes:author>
             <title>
-العقيدة - المحاضره 24 - 
+العقيدة - المحاضره 24 - ثالثا: دليل الحس
             </title>
             <itunes:summary>
-
+ثالثا: دليل الحس
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر العقيدة الإسلامية من قوله (ثالثا: دليل الحس) في الصفحة رقم 81 وحتى نهاية الكتاب
             </description>
-            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture24_Aqeedah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
-            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture24_Aqeedah_Semester1.mp3</guid>
+            <enclosure url='https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture24_Aqeedah_Semester1_T2.mp3' length='40805972' type='audio/mpeg'/>
+            <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Aqeedah/Audios/Lecture24_Aqeedah_Semester1_T2.mp3</guid>
             <itunes:duration>00:43:50</itunes:duration>
             <pubDate>Wed, 18 Nov 2020 20:45:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-37</link>
         </item>
 
+        <!--
         <item>
             <itunes:author>
 د. عبد العزيز بن حميد بن محمد الجهني
