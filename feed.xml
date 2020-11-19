@@ -3589,19 +3589,18 @@
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=25#section-37</link>
         </item>
 
-        <!--
         <item>
             <itunes:author>
 د. عبد العزيز بن حميد بن محمد الجهني
             </itunes:author>
             <title>
-التربية الإسلامية - المحاضره 24 - 
+التربية الإسلامية - المحاضره 24 - حقوق الرعية على الراعي
             </title>
             <itunes:summary>
-
+حقوق الرعية على الراعي
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (حقوق الرعية على الراعي) في الصفحة رقم 84 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture24_Tarbiyah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tarbiyah/Audios/Lecture24_Tarbiyah_Semester1.mp3</guid>
@@ -3615,13 +3614,13 @@
 الشيخ محمد صالح المنجد
             </itunes:author>
             <title>
-التفسير - المحاضره 24 - 
+التفسير - المحاضره 24 - فوائد الآية
             </title>
             <itunes:summary>
-
+فوائد الآية
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب مقرر التفسير من قوله (فوائد الآية) في الصفحة رقم 76 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture24_Tafsir_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Tafsir/Audios/Lecture24_Tafsir_Semester1.mp3</guid>
@@ -3635,13 +3634,13 @@
 د.منصور بن عبد الرحمن الغامدي
             </itunes:author>
             <title>
-الفقه - المحاضره 36 - 
+الفقه - المحاضره 36 - مبطلات الصلاة
             </title>
             <itunes:summary>
-
+مبطلات الصلاة
             </itunes:summary>
             <description>
-
+تغطي هذه المحاضرة شرحاً لما جاء في كتاب المقرر من قوله (مبطلات الصلاة) في الصفحة رقم 124 وحتى نهاية الكتاب
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture36_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture36_Fiqh_Semester1.mp3</guid>
@@ -3650,6 +3649,5 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-49</link>
         </item>
--->
     </channel>
 </rss>
