@@ -35,7 +35,7 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Seerah/Audios/Lecture1_Seerah_Semester1.mp3</guid>
-            <pubDate>Sun, 30 Aug 2020 17:00:00 +0000</pubDate>
+            <pubDate>Sun, 17 Jan 2021 17:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=29#section-3</link>
         </item>
@@ -49,7 +49,7 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3' length='46931124' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Hadith/Audios/Lecture1_Hadith_Semester1.mp3</guid>
             <itunes:duration>00:49:30</itunes:duration>
-            <pubDate>Sun, 30 Aug 2020 19:00:00 +0000</pubDate>
+            <pubDate>Sun, 17 Jan 2021 19:00:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=28#section-3</link>
         </item>
@@ -63,10 +63,11 @@
             <enclosure url='https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3' length='40805972' type='audio/mpeg'/>
             <guid isPermaLink='false'>https://resources.zad-academy.com/Semester1/Fiqh/Audios/Lecture1_Fiqh_Semester1.mp3</guid>
             <itunes:duration>00:46:11</itunes:duration>
-            <pubDate>Sun, 30 Aug 2020 20:45:00 +0000</pubDate>
+            <pubDate>Sun, 17 Jan 2021 20:45:00 +0000</pubDate>
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-3</link>
         </item>
+        <!--
         <item>
             <itunes:author>الشيخ ناصر بن حمدان عودة الجهني</itunes:author>
             <title>الغة العربية - المحاضره 1</title>
@@ -3649,5 +3650,6 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=30#section-49</link>
         </item>
+-->
     </channel>
 </rss>
