@@ -1287,20 +1287,19 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=38#section-9</link>
         </item>
-        <!--
 
         <item>
             <itunes:author>
 الشيخ عاصم الحكيم
             </itunes:author>
             <title>
-السيره - المحاضره 5/1 - 
+السيره - المحاضره 5/1 - خاتم النبوة
             </title>
             <itunes:summary>
-
+خاتم النبوة
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "خاتم النبوة" في الصفحة رقم 21 من كتاب المقرر وحتى قوله "المشي في نعل واحدة" في الصفحة رقم 24 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Seerah/Audios/Lecture5_Seerah_Semester2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1315,13 +1314,13 @@
 الشيخ حمزة بن ذاكر الزبيدي
             </itunes:author>
             <title>
-السيره - المحاضره 5/2 - 
+السيره - المحاضره 5/2 - خاتم النبوة
             </title>
             <itunes:summary>
-
+خاتم النبوة
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "خاتم النبوة" في الصفحة رقم 21 من كتاب المقرر وحتى قوله "المشي في نعل واحدة" في الصفحة رقم 24 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Seerah/Audios/Lecture5_Seerah_Semester2_T2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1336,13 +1335,13 @@
 د. موفق بن عبد الله بن علي كدسة الغامدي
             </itunes:author>
             <title>
-الحديث - المحاضره 5/1 - 
+الحديث - المحاضره 5/1 - الحديث الخامس
             </title>
             <itunes:summary>
-
+الحديث الخامس
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "الحديث الخامس" في الصفحة رقم 26 من كتاب المقرر وحتى نهاية شرح الحديث الخامس في الصفحة رقم 29 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Hadith/Audios/Lecture5_Hadith_Semester2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1357,13 +1356,13 @@
 د. عيسى المسملي: عيسى بن محمد بن عيسى المسملي
             </itunes:author>
             <title>
-الحديث - المحاضره 5/2 - 
+الحديث - المحاضره 5/2 - الحديث الخامس
             </title>
             <itunes:summary>
-
+الحديث الخامس
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "الحديث الخامس" في الصفحة رقم 26 من كتاب المقرر وحتى نهاية شرح الحديث الخامس في الصفحة رقم 29 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Hadith/Audios/Lecture5_Hadith_Semester2_T2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1378,13 +1377,13 @@
 د.منصور بن عبد الرحمن الغامدي
             </itunes:author>
             <title>
-الفقه - المحاضره 7/1 - 
+الفقه - المحاضره 7/1 - سجود التلاوة
             </title>
             <itunes:summary>
-
+سجود التلاوة
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "سجود التلاوة" في الصفحة رقم 31 من كتاب المقرر وحتى قوله "صلاة الجماعة" في الصفحة رقم 34 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Fiqh/Audios/Lecture7_Fiqh_Semester2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1399,13 +1398,13 @@
 د. خالد بن عيد الجريسي
             </itunes:author>
             <title>
-الفقه - المحاضره 7/2 - 
+الفقه - المحاضره 7/2 - سجود التلاوة
             </title>
             <itunes:summary>
-
+سجود التلاوة
             </itunes:summary>
             <description>
-
+تبدأ هذه المحاضرة من قوله "سجود التلاوة" في الصفحة رقم 31 من كتاب المقرر وحتى قوله "صلاة الجماعة" في الصفحة رقم 34 من كتاب المقرر
             </description>
             <enclosure url='https://resources.zad-academy.com/Semester2/Fiqh/Audios/Lecture7_Fiqh_Semester2_T2.mp3' length='40805972' type='audio/mpeg'/>
             <itunes:duration>00:45:00</itunes:duration>
@@ -1414,6 +1413,7 @@
             <itunes:explicit>false</itunes:explicit>
             <link>https://lms-ar106.zad-academy.com/course/view.php?id=38#section-11</link>
         </item>
+        <!--
 
         <item>
             <itunes:author>
