@@ -124,16 +124,16 @@ for (let weekIndex = 0; weekIndex < weeks; weekIndex++) {
         .addHours(times[semester - 1][lectureIndex])
         .toUTCString();
       lecture.instructors.forEach((instructor, instructorIndex) => {
-        if (body) {
-          let child = this.getLineHtml(
-            date,
-            instructor,
-            lecture.getTitle(instructorIndex + 1),
-            lecture.getUrl(semester, instructorIndex + 1),
-            lecture.getLink(weekIndex)
-          );
-          body.appendChild(child);
-        }
+        // if (body) {
+        let child = this.getLineHtml(
+          date,
+          instructor,
+          lecture.getTitle(instructorIndex + 1),
+          lecture.getUrl(semester, instructorIndex + 1),
+          lecture.getLink(weekIndex)
+        );
+        body.appendChild(child);
+        // }
         res += getLineXml(
           date,
           instructor,
