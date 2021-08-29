@@ -8,12 +8,12 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
     <channel>
-        <title>حلقات اكادميه زاد الفصل الثاني</title>
+        <title>حلقات اكادميه زاد الفصل الثالث</title>
         <link>https://www.zad-academy.com/</link>
         <language>ar-sa</language>
         <atom:link href="https://mohamedelamry.github.io/feed2.xml" rel="self" type="application/rss+xml"/>
         <copyright>اكادميه زاد</copyright>
-        <itunes:subtitle>الفصل الثاني</itunes:subtitle>
+        <itunes:subtitle>الفصل الثالث</itunes:subtitle>
         <itunes:author>اكادميه زاد</itunes:author>
         <itunes:summary>نرحب بكم. فرصه عظيمه للتعليم ونشر العلم</itunes:summary>
         <itunes:keywords>Islam</itunes:keywords>
