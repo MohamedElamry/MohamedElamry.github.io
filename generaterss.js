@@ -112,9 +112,9 @@ const startDate = new Date("Sun, 29 Aug 2021 00:00:00 GMT+3");
 let res = "";
 let body = null;
 
-if (typeof document !== "undefined") {
-  body = document.getElementById("res-body");
-}
+// if (typeof document !== "undefined") {
+body = document.getElementById("res-body");
+// }
 for (let weekIndex = 0; weekIndex < weeks; weekIndex++) {
   week.forEach((day, dayIndex) => {
     day.forEach((lecture, lectureIndex) => {
